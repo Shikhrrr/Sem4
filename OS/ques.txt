@@ -1,0 +1,6 @@
+lab1. Implement first come first serve
+lab2. Shortest job fisrt
+lab3. Round Robin
+lab4. priority scheduling
+
+5.20, 5.21, 5.22 from pdf in classroom 

@@ -1,0 +1,31 @@
+Lab 4
+LAN port -> 48 bit address
+framing
+	-header 32 bit
+	-programming/burn done under Verilog (but done in C)
+	-frame method - old tech: bit stuffing
+		-problem: changing of data (when to start frame)
+			old tech: byte stuffing -> 8 bit insertion
+			problem = special characters to make starting 				and ending same
+			byte stuff---DATA---byte stuff
+
+broadcasting and unicasting and multicasting
+
+Lab work
+1. bit stuffing
+2. character stuffing
+3. byte stuffing
+Do in C (it is done in C/Verilog)
+*James Cross book
+
+
+LAB 5
+
+WAP to implement 1 bit and 3 bit sliding window
+
+SLIDING WINDOW-
+    send one whole window, THEN wait for acknowledgment (180ms)
+
+LAB 6 
+    WAP to implement crc in networks
+    WAP to find hamming distance to correct error

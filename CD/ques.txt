@@ -1,0 +1,11 @@
+q1. Check valid arithmetic expression
+q2. Convert infix to postfix
+q3. Check the valid "IF" statement in C and report errors to the user
+q4. WAP to display symbol table. (use hashmap (optional))
+q5. WAP Recognize the declarative statement
+q6. WAP to check for unterminated comments (including multiline comments)
+q7. count chars, words and lines in a file (from .txt file);
+
+college logo
+content/ index
+intro
